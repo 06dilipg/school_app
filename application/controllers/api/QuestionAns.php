@@ -76,7 +76,7 @@ echo $arr["$ques"]."<br/>";
 	//echo json_encode($myObj);
 	
         
-    }
+		}
 
 
 }
